@@ -22,3 +22,4 @@
 - [@Arimoro Olamilekan](https://github.com/Lexitar32)
 <!--Osaiteh Contribution-->
 - [@Glory Ogbebor](https://github.com/Osaiteh)
+- [@Epaphroditus Gift](https://github.com/Mamaaki)
